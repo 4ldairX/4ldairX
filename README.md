@@ -115,8 +115,8 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <br/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" alt="Linux"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="38" alt="Kali"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/wiresharkorg/wiresharkorg-icon.svg" width="38" alt="Wireshark"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="38" alt="Bash"/>
 
 <br/><br/>
@@ -136,7 +136,7 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="38" alt="Raspberry Pi"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="38" alt="Arduino"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" width="38" alt="ESP32"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" alt="C"/>
 
 <br/><br/>
@@ -162,19 +162,19 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ldairX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4ldairX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ldairX&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=4ldairX&theme=tokyonight&hide_border=true" alt="streak" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldairX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldairX&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ Rewatched the Infinity Saga more times than I should admit. Team Daredevil on th
   <a href="mailto:12455259torrez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://hackerone.com/4ldairX"><img src="https://img.shields.io/badge/-HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="h1"/></a>
   <a href="https://bugcrowd.com/4ldairX"><img src="https://img.shields.io/badge/-Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="bc"/></a>
-  <a href="https://app.hackthebox.com/profile"><img src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="htb"/></a>
+  <a href="https://profile.hackthebox.com/profile/019d8e13-941e-73de-854a-279e5d7d2796"><img src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="htb"/></a>
 </p>
 
 <p align="center">
