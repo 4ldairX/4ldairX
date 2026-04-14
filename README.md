@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4ldairX&color=9FEF00&style=for-the-badge&label=VISITORS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=4ldairX&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/4ldairX?label=FOLLOWERS&style=for-the-badge&color=9FEF00&labelColor=0a0a0a" alt="followers" />
   <img src="https://img.shields.io/badge/STATUS-online-9FEF00?style=for-the-badge&labelColor=0a0a0a" alt="status" />
 </p>
@@ -162,7 +162,7 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ldairX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4ldairX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
 
 </td>
 <td width="50%" align="center">
@@ -174,7 +174,7 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldairX&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldairX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" />
 
 </td>
 </tr>
