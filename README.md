@@ -1,4 +1,12 @@
 <!-- ============================================================= -->
+<!--                      CAPSULE WAVE BANNER                       -->
+<!-- ============================================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:9FEF00&height=180&section=header&text=4ldairX&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=systems%20eng%20%E2%80%A2%20backend%20%E2%80%A2%20offsec&descAlignY=60&descAlign=50" alt="banner" />
+</p>
+
+<!-- ============================================================= -->
 <!--                          HEADER / TYPING                       -->
 <!-- ============================================================= -->
 
@@ -6,6 +14,10 @@
   <a href="https://github.com/4ldairX">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=9FEF00&center=true&vCenter=true&width=620&height=60&lines=%24+whoami+%E2%86%92+4ldair;Systems+Engineering+Student;Backend+Developer;CTF+Player+%7C+HTB+50%2B+pwned;Bug+Bounty+Hunter+%E2%80%94+H1+%7C+Bugcrowd" alt="typing" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
 </p>
 
 <p align="center">
@@ -22,7 +34,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### `~/whoami.sh`
+### `~/whoami.sh` <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="32" alt="wave" />
 
 ```bash
 $ cat /etc/4ldair.conf
@@ -54,7 +66,11 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <!--                      ABOUT ME (PUNCHY)                         -->
 <!-- ============================================================= -->
 
-### `> about_me --short`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
+</p>
+
+### `> about_me --short` <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="30" alt="sparkle" />
 
 - 🛠️ **Backend by trade** — FastAPI & Django for the boring 200s, SQL when the ORM lies.
 - 🔴 **Offsec for sport** — 50+ HTB machines down, still counting. Web & linux priv-esc are home turf.
@@ -68,7 +84,7 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <!--                       NOW / WORKING ON                         -->
 <!-- ============================================================= -->
 
-### `> now`
+### `> now` <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="32" alt="coding" />
 
 ```diff
 + building  : a FastAPI service that scores football match probabilities
@@ -83,7 +99,11 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <!--                            STACK                               -->
 <!-- ============================================================= -->
 
-### `> cat stack.md`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
+</p>
+
+### `> cat stack.md` <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30" alt="gears" />
 
 <table align="center">
 <tr>
@@ -156,13 +176,17 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <!--                    STATS TABLE (3 CARDS)                       -->
 <!-- ============================================================= -->
 
-### `> stats --since=forever`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
+</p>
+
+### `> stats --since=forever` <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30" alt="fire" />
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ldairX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=4ldairX&theme=tokyonight" alt="stats" />
 
 </td>
 <td width="50%" align="center">
@@ -174,19 +198,27 @@ Chasing **CVEs** on HackerOne & Bugcrowd when a target looks interesting. If you
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ldairX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4ldairX&theme=tokyonight" alt="languages" />
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4ldairX&theme=tokyo-night&bg_color=0a0a0a&hide_border=true&line=9FEF00&color=9FEF00&point=ffffff" alt="activity graph" />
+</p>
+
 <br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
+</p>
 
 <!-- ============================================================= -->
 <!--                          FUN FACTS                             -->
 <!-- ============================================================= -->
 
-### `> fun_facts.txt`
+### `> fun_facts.txt` <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" alt="pc" />
 
 <table align="center">
 <tr>
@@ -220,7 +252,11 @@ Rewatched the Infinity Saga more times than I should admit. Team Daredevil on th
 <!--                             CONTACT                            -->
 <!-- ============================================================= -->
 
-### `> contact --encrypted`
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="rainbow divider" />
+</p>
+
+### `> contact --encrypted` <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" alt="signal" />
 
 <p align="center">
   <a href="mailto:12455259torrez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -231,4 +267,8 @@ Rewatched the Infinity Saga more times than I should admit. Team Daredevil on th
 
 <p align="center">
   <sub><code>// if you can read this, the payload landed.</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FEF00,100:0a0a0a&height=120&section=footer" alt="footer" />
 </p>
